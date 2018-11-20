@@ -1,4 +1,4 @@
-git clone url
+git clone https://github.com/billowbashir/smart-irrigation.git
 sudo apt-get install python3-pip
 sudo pip3 install virtualenv 
 virtualenv virtual
