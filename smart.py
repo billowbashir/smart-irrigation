@@ -13,7 +13,7 @@ class SMS:
     def __init__(self):
         # Set your app credentials
         self.username = "brighton"
-        self.api_key = "18696560f647f921b072950f4ef9e5c24a76e583ec26b6ceb4f2ef6d34403daa"
+        self.api_key = ""
         # Initialize the SDK
         africastalking.initialize(self.username,self.api_key)
         # Get the SMS service
